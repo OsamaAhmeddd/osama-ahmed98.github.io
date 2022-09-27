@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/osama-ahmed98.github.io/precache-manifest.82fc9fec634b9d96184b18340f346002.js"
+  "/osama-ahmed98.github.io/precache-manifest.95abcb10cea03fba8bb59b1ec9b8a6d1.js"
 );
 
 workbox.clientsClaim();

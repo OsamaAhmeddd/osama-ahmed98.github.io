@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "48cd630e023e1b3e2fba",
+    "revision": "80ec702e17b65b055dd8",
     "url": "/osama-ahmed98.github.io/static/css/main.87a6019e.chunk.css"
   },
   {
-    "revision": "48cd630e023e1b3e2fba",
-    "url": "/osama-ahmed98.github.io/static/js/main.48cd630e.chunk.js"
+    "revision": "80ec702e17b65b055dd8",
+    "url": "/osama-ahmed98.github.io/static/js/main.80ec702e.chunk.js"
   },
   {
     "revision": "6eb6405c9d99258624bc",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/osama-ahmed98.github.io/static/js/runtime~main.d4662121.js"
   },
   {
-    "revision": "dfcabf112f62260b7691f51ed5fb37a0",
+    "revision": "4ac61a02fc635a9d1f44fd79c6a47f26",
     "url": "/osama-ahmed98.github.io/index.html"
   }
 ];
